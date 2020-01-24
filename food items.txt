@@ -1,4 +1,10 @@
 veg
-potato
-carrot
-egg
+
+1. potato
+2.carrot
+3.egg
+
+non veg
+
+1.chicken 
+2.fish
